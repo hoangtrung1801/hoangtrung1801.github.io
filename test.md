@@ -32,4 +32,8 @@ I think you should use an
 * Item 2
   * Item 2a
   * Item 2b
+  
+16c999e8c71134401a78d4d46435517b2271d6ac
+mojombo@16c999e8c71134401a78d4d46435517b2271d6ac
+mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
 
